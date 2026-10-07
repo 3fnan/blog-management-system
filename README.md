@@ -80,8 +80,8 @@ BlogSystem/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd BlogSystem
+git clone https://github.com/3fnan/blog-management-system.git
+cd blog-management-system
 ```
 
 ### 2. Create a virtual environment
